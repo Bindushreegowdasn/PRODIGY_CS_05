@@ -26,9 +26,4 @@ This tool displays **source & destination IP addresses**, **protocols**, and **p
 
 ---
 
-## 📦 Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/network-packet-analyzer.git
-   cd network-packet-analyzer
